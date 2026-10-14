@@ -58,10 +58,10 @@ AtliQ Hardware sells PCs, peripherals, storage and networking products (a Dell/H
 atliq-hardware-sales-analysis/
 ├── README.md
 ├── datasets/
-│   ├── raw/        # dim_customer, dim_market, dim_product, ns_targets_2021 (CSV)
-│   └── sample/     # fact_sales_monthly_sample.csv (the full file is too large)
-├── reports/        # assignment_solution.xlsx (5 report sheets)
-└── business_problem/           # problem_statement.pdf and report.pdf
+│   ├── raw/            # dim_customer, dim_market, dim_product, ns_targets_2021 (CSV)
+│   └── sample/         # fact_sales_monthly_sample.csv (the full file is too large)
+├── reports/            # assignment_solution.xlsx and report.pdf(5 report sheets)
+└── business_problem/   # problem_statement.pdf 
 ```
 
 ## 8. Tools
